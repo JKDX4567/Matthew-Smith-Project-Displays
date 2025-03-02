@@ -4,4 +4,4 @@ FinalProjectSSW345 - An investment app that compares investments and computes mi
 
 Music_Lesson_Program - A schedluing bot that takes in student information and allows for scheduling appointments, calculates prices and money, and stores information into a locally stored text file for later use
 
-ENGR 122 Final Project
+ENGR122_Project - Arduino-based competetion, created a body using 3d printing, programmed in c++ to have body cover 5 targets on arena
