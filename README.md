@@ -5,3 +5,5 @@ FinalProjectSSW345 - An investment app that compares investments and computes mi
 Music_Lesson_Program - A schedluing bot that takes in student information and allows for scheduling appointments, calculates prices and money, and stores information into a locally stored text file for later use
 
 ENGR122_Project - Arduino-based competetion, created a body using 3d printing, programmed in c++ to have body cover 5 targets on arena
+
+SSW 423 project - A project currently under development that would allow people to create uml diagrams with ease, using a drag and drop system and will include a guide to make creation easier.
